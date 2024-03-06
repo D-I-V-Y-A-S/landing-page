@@ -1,0 +1,82 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+margin:0px;
+
+}
+
+.icons
+{
+    width:50%;
+    display:flex;
+}
+
+i
+{
+    color:red;
+    margin:4% 1% 4% 1%;
+}
+
+.link
+{
+    width:30%;
+}
+
+.input-box
+{
+    width:20%;
+    margin:1.5% 1% 1.5% 1%;
+}
+
+#Search
+{
+    width:70%;
+    border:none;
+    outline: none;
+}
+
+a{
+    display: inline-block;
+    color:red;
+    text-decoration: none;
+    margin:5% 1% 5% 1%;
+    font-size: 17px;
+}
+
+a:hover
+{
+    color:gray;
+}
+
+#align
+{
+    border:solid 2px gray;
+    border-radius: 50px;
+}
+
+.aside
+{
+    
+    width:30%;
+    margin:0% 0% 0% 1%;
+    background-color: rgb(205, 78, 78);
+    padding:2%;
+    align-items: center;
+}
+
+button
+{
+    background-color: white;
+   padding:3%;
+}
+
+#text
+{
+    color:white;
+    padding:3%;
+    font-size: 30px;
+}
